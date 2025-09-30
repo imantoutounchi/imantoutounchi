@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Iman Ghader Toutounchi  
 
-<!--
-**imantoutounchi/imantoutounchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data & Business Intelligence Analyst** with a passion for turning raw data into actionable insights.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools  
+- 📊 Power BI, SQL, DAX  
+- 🐍 Python (Pandas, Data Cleaning, Automation)  
+- ⚙️ SSIS, ETL, Data Warehousing  
+- 📈 Data Visualization & Reporting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+- Build interactive dashboards and reports  
+- Automate data workflows with Python & SQL  
+- Design and optimize BI solutions for decision-making  
+
+## 🌱 Currently Learning  
+- Advanced SQL (Window Functions, Optimization)  
+- Git & GitHub for collaboration and version control  
+
+## 📫 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/iman-ghader-toutounchi-570247173)  
+- [Email](mailto:imantotonchi.it.it@gmail.com)  
+
+---
+⭐️ *Feel free to check my repositories for sample projects and dashboards!*
